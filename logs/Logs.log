@@ -1,0 +1,7 @@
+17:37:58.563 [main] INFO  inetBanking - setUp
+17:38:12.705 [main] INFO  inetBanking - Inside loginTest
+17:38:12.901 [main] INFO  inetBanking - Entered Username
+17:38:13.004 [main] INFO  inetBanking - Entered Password
+17:38:23.222 [main] INFO  inetBanking - Clicked Submit
+17:38:23.232 [main] INFO  inetBanking - Login Successful
+17:38:23.233 [main] INFO  inetBanking - ------------
